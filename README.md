@@ -41,8 +41,6 @@ authorized HTTP Api calls.
 * 
 
 
-## Checkout URL
-* [Jobby App](https://sireesha-jobby-app.vercel.app/login)
 
 ## Credentials
 UserName : rahul
